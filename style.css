@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#first{
+    background-image: url("./5File .jpg");
+
+}
+ul{
+    color: white;
+}
+li{
+    float: left;
+    text-decoration: none;
+    list-style-type: none;
+    margin-top: 1.5%;
+
+}
+
+#about, #services, #portfolio{
+    margin-right: 3.5% ;
+}
+
+#start{
+    
+    margin-right: 50%;
+    margin-left: 10%;
+}
+
+h1{ 
+    padding-top:200px;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    clear: both;
+
+
+}
+
+#forBorder{
+    margin: 0 auto;
+    width: 30px;
+    border: rgb(228, 93, 62) solid 2px;
+    margin-bottom: 1%;
+}
+
+#title{  text-align: center;
+    color: white;
+    margin-bottom: 3%;
+}
+
+#find{
+    color: white;
+    text-align: center;
+    width: 150px;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: rgb(228, 93, 62) solid 2px;
+    background: rgb(228, 93, 62);
+    padding:1%
+}
+#bos{
+    height: 180px;
+}
+#second{
+    background-color: rgb(231, 95, 63);
+    text-align: center;
+    color: white;
+}
+#forBorder2{
+    margin: 0 auto;
+    border: white solid 2px;
+    width: 40px;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+#text2{
+    color: rgb(246, 168, 155);
+}
+
+#we{
+    padding-top: 50px;
+}
+#getStarted{
+    color: black;
+    text-align: center;
+    width: 150px;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: white solid 2px;
+    background: white;
+    padding: 1%;
+    margin-top: 3%;
+}
+#bos2{
+    height: 100px;;
+}
+
+#at{
+    padding-top: 50px;
+    text-align: center;
+}
+
+#forBorder3{
+    margin: 0 auto;
+    border: rgb(231, 95, 63) solid 2px ;
+    width: 40px;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+#table1{
+    margin:0 auto;
+    text-align: center;
+}
+#bos3{
+    height: 100px;
+}
+
+#imgs img{
+    width: 33.33%;
+    float:left;
+    display: block;
+    height: 200px;
+}
+/* #imgs{
+    clear: both
+} */
+
+/* #foto {
+    border-collapse: collapse;
+} */
+
+#bfinal{
+    background: rgb(52, 58, 64);
+    padding-top: 300px;
+}
+#bfinal h2{
+    padding-top: 200px;
+    text-align: center;
+    color: white;
+    margin-bottom: 1%;
+}
+#download{
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+    border: white solid 1px;
+    border-radius: 10px;
+    width: 150px;
+    margin: 0px auto;    
+    background: white;
+    padding: 1%;
+}
+#bos4{
+    height: 100px;
+}
+
+#final{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#forBorder4{
+    width: 40px;
+    border: rgb(238, 98, 65) solid 2px;
+    margin: 0px auto;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+#phone{
+    width: 25%;
+}
+#mail{
+    width: 25%;
+}
+#final p{
+    margin-bottom: 2.5%;
+}
+
+#final table{
+    margin: 0 auto;
+}
+
+#bos5{
+    height: 100px ;
+}
+
+#kapanis{
+    background: rgb(236, 236, 238);
+}
+
+#kapanis p{
+    
+    text-align: center;
+    padding-top: 45px;
+    height: 60px;
+    /* margin-bottom: 30px; */
+}
+/* #orange{
+    color: orange;
+} */
